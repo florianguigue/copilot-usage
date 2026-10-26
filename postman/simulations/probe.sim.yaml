@@ -1,0 +1,7 @@
+simulation: copilot-usage-probe
+routing: path
+mocks:
+  - name: github
+    routeKey: github
+    origin: api.github.com
+    path: postman/mocks/github/config.yaml

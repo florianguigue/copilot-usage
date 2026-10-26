@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../../src/CopilotUsage.Core/CopilotUsage.Core.csproj" /></ItemGroup>
+</Project>
